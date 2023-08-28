@@ -1,0 +1,15 @@
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.csproj.AssemblyReference.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.AssemblyInfoInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.AssemblyInfo.cs
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.csproj.CoreCompileInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\bin\Debug\net6.0\VowelsOrConsonants.exe
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\bin\Debug\net6.0\VowelsOrConsonants.deps.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\bin\Debug\net6.0\VowelsOrConsonants.runtimeconfig.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\bin\Debug\net6.0\VowelsOrConsonants.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\bin\Debug\net6.0\VowelsOrConsonants.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\refint\VowelsOrConsonants.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\VowelsOrConsonants.genruntimeconfig.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\VowelsOrConsonants\VowelsOrConsonants\obj\Debug\net6.0\ref\VowelsOrConsonants.dll

@@ -1,0 +1,15 @@
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\bin\Debug\net6.0\ReverseUpperCase.exe
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\bin\Debug\net6.0\ReverseUpperCase.deps.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\bin\Debug\net6.0\ReverseUpperCase.runtimeconfig.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\bin\Debug\net6.0\ReverseUpperCase.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\bin\Debug\net6.0\ReverseUpperCase.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.csproj.AssemblyReference.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.AssemblyInfoInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.AssemblyInfo.cs
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.csproj.CoreCompileInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\refint\ReverseUpperCase.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ReverseUpperCase.genruntimeconfig.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\ReverseUpperCase\ReverseUpperCase\obj\Debug\net6.0\ref\ReverseUpperCase.dll

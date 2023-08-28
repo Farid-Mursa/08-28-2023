@@ -1,0 +1,15 @@
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.exe
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.deps.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.runtimeconfig.json
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\bin\Debug\net6.0\NumberOfWords.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.csproj.AssemblyReference.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.AssemblyInfoInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.AssemblyInfo.cs
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.csproj.CoreCompileInputs.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\refint\NumberOfWords.dll
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.pdb
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\NumberOfWords.genruntimeconfig.cache
+C:\Users\mrfar\OneDrive\Desktop\BankAccount\NumberOfWords\NumberOfWords\obj\Debug\net6.0\ref\NumberOfWords.dll
